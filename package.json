@@ -1,0 +1,16 @@
+{
+  "name": "class-tracker",
+  "version": "1.0.0",
+  "description": "a system to track class and teacher performance data",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server -p 3001"
+
+  },
+  "author": "Randy Josleyn",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
